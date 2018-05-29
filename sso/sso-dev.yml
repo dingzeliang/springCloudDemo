@@ -1,0 +1,12 @@
+server:
+  port: 8030
+spring:
+  application:
+    name: sso-server
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/dingzeliang/springCloudDemo.git
+          username: flightbefore@sina.com
+          password: DZLbz13095917047
