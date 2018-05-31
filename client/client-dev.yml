@@ -7,4 +7,4 @@ eureka:
   instance:
     prefer-ip-address: true
 sso:
-  url: http://127.0.0.1:8020/sso
+  url: http://127.0.0.1:8020/sso/login
